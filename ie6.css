@@ -1,0 +1,21 @@
+#sidebar {
+	margin-right: 5px;
+}
+#searchBox {
+	margin-right: 20px;
+}
+.block div.views-row {
+	border-top: none;
+	padding-top: 3px;
+}
+#block-menu-menu-quicklinks ul.menu li {
+	margin-left: 12px;
+}
+.news .gallery .image {
+	margin: 5px 4px 5px 4px;
+}
+#contentPanel .meta {
+	position: relative;
+	top: -5px;
+	right: -5px;
+}

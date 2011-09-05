@@ -1,0 +1,10 @@
+; $Id: iianz.info,v 1.0 2009/11/16 18:27:32 david Exp $
+name = IIANZ
+description = A tableless theme for the Institute of Internal Auditors, New Zealand.
+version = VERSION
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
+stylesheets[print][] = print.css
+
+
